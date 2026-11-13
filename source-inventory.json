@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-13",
+  "source_root": "E:\\UserData\\carst\\Projects\\Minecraft Mods\\friendlybones",
+  "declared_version": "1.5.0",
+  "status": "Unreleased according to CHANGELOG.md",
+  "horizon_analysis_commit": "441f49d57e344bd56b90fd4af5c4e443ff3937c9",
+  "tests_executed": false,
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "d9075acee7dd757faa7442f11083e4b8a7c46ad5e266f8ae97e9ce2c3826b5f0"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "0ebfcfd175ed24e32985f2e7a9d9c7c6319385b4bdbcd18239d0915f21037cc1"
+    },
+    {
+      "path": "gradle.properties",
+      "sha256": "7ab7de81689ebd97e0f7d1f63ecf8b0c6eb08cb25999f28d8689a8eee11340e7"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "6d489af6292662d9e36d34ce49423784984a5f6e41d7b58f49b01264df59fa03"
+    },
+    {
+      "path": "README.md",
+      "sha256": "5589f5870e39bd04e344c044529a173c6b4f4e4825d624901797140b6ad44786"
+    },
+    {
+      "path": "src/client/java/com/example/friendlybones/client/FriendlyBonesClient.java",
+      "sha256": "fcd4379e3bc44ffe09a7fe11d471bed4479c975a3447c0d5ef5743c68441317f"
+    },
+    {
+      "path": "src/client/java/com/example/friendlybones/client/screen/FriendlyMenuScreen.java",
+      "sha256": "67819d33d6e84d97e2e6ad4187a9e695b2883a78737d54bc437bfde27d642642"
+    },
+    {
+      "path": "src/client/resources/assets/friendlybones/items/friendly_skeleton_spawn_egg.json",
+      "sha256": "a558a8613545b5a3a65002363aadde06325689adde00a2b93cf047c42f08eee4"
+    },
+    {
+      "path": "src/clienttest12111/java/com/example/friendlybones/client/FriendlyBonesClientTest.java",
+      "sha256": "1d4619fc5c7fddfd2b5b343f13bba12d6437a5b52b2741c8ff27d22987a43154"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/entity/FriendlyAlert.java",
+      "sha256": "4ca97e0de436bde391980fa1e3854ee91afdbbc566be428dcc2261b459514ab4"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/entity/FriendlyEntity.java",
+      "sha256": "dab83706093335e1e29da1f3949881a94660157b782f9358c680180894647cac"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/entity/FriendlyFire.java",
+      "sha256": "ec17f0e5110d861594974e5dbfbec395d45ddfa50a39252ee171d8bc90d79bcb"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/entity/FriendlyLogic.java",
+      "sha256": "ebb4f4391bd1dfd859963499a1ddc7782b00a7d6b2869dc738b750b8fc12e2d6"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/entity/FriendlyMenu.java",
+      "sha256": "2f2707f4946a31adf5c655d0bbdb8ad2b3fcf6455b576585f5c729ce903cc9f2"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/entity/FriendlySettings.java",
+      "sha256": "27b314e5b8769e0adc39484c9ccd9bf9ffb50a8362f6883a102f6a4de0376e39"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/FriendlyBonesMod.java",
+      "sha256": "c4aa3f391d146f272869a6e2c2394481fbded76e2988e72c5dd1164517dc9508"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/FriendlyConfig.java",
+      "sha256": "f2813f9e0e0ad38556f812ed9c2afc2d8a233ad973ba37926c1f1489aa628456"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/mixin/LivingEntityMixin.java",
+      "sha256": "a2e6978915d937024ba863f74978f487ffb54f6c1377a9d1c6a8e7b8740d3f07"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/network/MenuPayload.java",
+      "sha256": "5eed3bcc2f2a4a0b0fcb8f78c6ee55fd7a49da60f47e56f637fdaef3e26e6281"
+    },
+    {
+      "path": "src/main/java/com/example/friendlybones/registry/ModEntities.java",
+      "sha256": "d26a2dc9ac4bc925e4aec8e4b9cec986ed0616b2cd352c1832a232aba59cb803"
+    },
+    {
+      "path": "src/main/resources/assets/friendlybones/lang/de_de.json",
+      "sha256": "365fa1fe2e9441ffcfcbdd2af100548518ec44df9939e5c63d0dd192b50f48e5"
+    },
+    {
+      "path": "src/main/resources/assets/friendlybones/lang/en_us.json",
+      "sha256": "ce196c9091d09414b80a61421a2e1a4497be243b6fe845843ab7ed19cea515d3"
+    },
+    {
+      "path": "src/main/resources/fabric.mod.json",
+      "sha256": "4968142ea9b90def0d9f154480cf636b6ef07bba9445a0d168a083fa0944a67e"
+    },
+    {
+      "path": "src/main/resources/friendlybones.common.mixins.json",
+      "sha256": "1293d3f1ba30a3b3f729f9d5641bf144c764c74d451a1b6b437cf58bdf686f46"
+    },
+    {
+      "path": "src/mc12111/java/com/example/friendlybones/entity/FriendlyData.java",
+      "sha256": "36040336e23974d0a5c247c3b8a4213e930e69aafc950f152a8a46c512c0685b"
+    },
+    {
+      "path": "src/mc12111/java/com/example/friendlybones/entity/FriendlySkeletonEntity.java",
+      "sha256": "bc0c6f36411ad7e7228ecf3415139f3e6534bf834744d49e90a64e38c019db70"
+    },
+    {
+      "path": "src/mc12111/java/com/example/friendlybones/entity/FriendlyWitherSkeletonEntity.java",
+      "sha256": "bbd86d597f460190d91494a208ff8e500df0d7f61279b48879623b8d5c8eb522"
+    },
+    {
+      "path": "src/mc12111/java/com/example/friendlybones/entity/VersionCompat.java",
+      "sha256": "4b8ebcae187747385b39124ea3e1255ed5d22409f510f243d8d83e0a9c97aa52"
+    },
+    {
+      "path": "src/mc12111/java/com/example/friendlybones/FriendlyBonesTests.java",
+      "sha256": "ab3473c381f24642a40d17f08c402cb670bdc361bc22575822260b0f7e92ac97"
+    },
+    {
+      "path": "src/mc12111/java/com/example/friendlybones/mixin/FriendlyDaylightMixin.java",
+      "sha256": "d41bb96d46ff9e666e827d6695bf518d50b495e53da702c0f2d34a9f5654a6d6"
+    },
+    {
+      "path": "src/mc12111/java/com/example/friendlybones/mixin/ProjectileDamageAccessor.java",
+      "sha256": "561d3439176cc6287d4bd341945706515487bdfc7dd1029de716dbbff48bdf2d"
+    },
+    {
+      "path": "src/mc12111/java/com/example/friendlybones/registry/ModItems.java",
+      "sha256": "9d388436856bdcf054f08acf402f135f2970af8eb20f629b463012dcb2a46b6a"
+    },
+    {
+      "path": "src/mc12111/resources/friendlybones.mixins.json",
+      "sha256": "98e6a97aed4bc9d4d879f99a763bfa3fec75722f4efe74655e4e81250203e2cb"
+    },
+    {
+      "path": "src/mc1213/java/com/example/friendlybones/entity/FriendlyData.java",
+      "sha256": "84ea1fda2267a3d098f60b43d91fe0b4a86343953d9010f162db52beac7623f8"
+    },
+    {
+      "path": "src/mc1213/java/com/example/friendlybones/entity/FriendlySkeletonEntity.java",
+      "sha256": "4bf0f629911b014633ca1b721e704a2e8ebe2300f23a7d15c5c672629aa5b53e"
+    },
+    {
+      "path": "src/mc1213/java/com/example/friendlybones/entity/FriendlyWitherSkeletonEntity.java",
+      "sha256": "02d04db90339ecfc128df48a55305b877e8ebfaad4a0aa17d7c8f179903aa407"
+    },
+    {
+      "path": "src/mc1213/java/com/example/friendlybones/entity/VersionCompat.java",
+      "sha256": "04e5a9df35f829261133f9240b2a0776cb84b581a392dfa9f4bf94814199d726"
+    },
+    {
+      "path": "src/mc1213/java/com/example/friendlybones/FriendlyBonesTests.java",
+      "sha256": "1376597f4baa2f78db725a017e6774abe4fe2d14f32d246f466b6af59b2112b5"
+    },
+    {
+      "path": "src/mc1213/java/com/example/friendlybones/registry/ModItems.java",
+      "sha256": "c078b3ae3614dd4d37fb1f64c67efc64818dfd494cfffa6dcb09c2f635a05a00"
+    },
+    {
+      "path": "src/mc1213/resources/friendlybones.mixins.json",
+      "sha256": "2b1093779397e3be01400dfafe12a40c3da5f3d8a3fc6ed6b6c5bb3b2d4eccd5"
+    }
+  ]
+}

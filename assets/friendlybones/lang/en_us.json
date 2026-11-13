@@ -1,0 +1,18 @@
+{
+  "itemGroup.friendlybones":"Friendly Bones",
+  "item.friendlybones.friendly_skeleton_spawn_egg":"Friendly Skeleton Spawn Egg",
+  "entity.friendlybones.friendly_skeleton":"Friendly Skeleton",
+  "entity.friendlybones.friendly_wither_skeleton":"Friendly Wither Skeleton",
+  "screen.friendlybones.menu":"Friendly Bones",
+  "screen.friendlybones.mode.wander":"Roam",
+  "screen.friendlybones.mode.follow":"Follow",
+  "screen.friendlybones.mode.guard":"Guard",
+  "screen.friendlybones.roam_radius":"Roam radius",
+  "screen.friendlybones.follow_stop":"Stay within",
+  "screen.friendlybones.follow_start":"Catch up at",
+  "screen.friendlybones.guard_radius":"Combat radius",
+  "screen.friendlybones.recenter":"Set here",
+  "message.friendlybones.mode.wander":"Your companion is now roaming.",
+  "message.friendlybones.mode.follow":"Your companion is now following you.",
+  "message.friendlybones.mode.guard":"Your companion is now guarding its post."
+}

@@ -1,0 +1,11 @@
+[package]
+name = "friendly-bones-core"
+version = "0.1.0"
+edition = "2024"
+license = "CC0-1.0"
+
+[lib]
+path = "src/core.rs"
+
+[profile.dev]
+debug = 0

@@ -1,0 +1,8 @@
+id = "friendlybones"
+name = "Friendly Bones"
+version = "0.2.0"
+description = "Tamable skeleton and wither skeleton companions: they roam, follow or guard, fight with bow and sword, and are set up through a right-click menu."
+authors = ["Friendly Bones contributors"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]
